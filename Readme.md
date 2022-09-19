@@ -11,7 +11,7 @@ The purpose of this project is to code a small data exchange program using UNIX 
 
 ## Guide
 
-UNIX SIGNAL
+UNIX SIGNAL - 
 UNIX Signals allows to communicate proccesses to each other. There are many types of signals, you can see all signals using ```kill -l``` command. 
 The SIGUSR1 and SIGUSR2 signals are set aside for you to use any way you want, default action is to terminate the process.
 We can handle signals using Signal or Sigaction.
